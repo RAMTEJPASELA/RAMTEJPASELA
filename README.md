@@ -19,7 +19,7 @@ I'm a passionate Electrical and Electronics Engineer with a focus on **Power Ele
 - Developing a high-efficiency **bidirectional DC-DC converter** for **battery charge/discharge regulation** in spacecraft and EV applications.  
 - **Role:** Project Trainee at **ISRO URSC**.  
 
----
+
 
 ## 🛠 **Previous Projects**  
 
@@ -31,7 +31,7 @@ I'm a passionate Electrical and Electronics Engineer with a focus on **Power Ele
 
 🎥 [Video Demonstration](https://youtu.be/1SOuRba_OvU)  
 
----
+
 
 ### 🖥️ **Modeling and Simulation of Cyber-Physical Digital Twin for Bus Fault Management**  
 
@@ -41,7 +41,7 @@ I'm a passionate Electrical and Electronics Engineer with a focus on **Power Ele
 
 🎥 [Video Demonstration](https://youtu.be/wIhd6TCpo74)  
 
----
+
 
 ### ⚡ **Operation and Analysis of Three-Phase Z-Source Inverter Using Simple Boost PWM Control**  
 
@@ -50,11 +50,12 @@ I'm a passionate Electrical and Electronics Engineer with a focus on **Power Ele
 - Conducted case studies with varying modulation indices for enhanced understanding of renewable energy applications.  
 
 🖼️ Simulink Photos: 
-Power Circuit in MATLAB Simulink  
+ 
 Control Circuit in MATLAB Simulink  
 Circuit Topology  
 
----
+![Power Circuit in MATLAB Simulink](https://github.com/user-attachments/assets/bb710003-6a12-432d-b632-b9201a2b321b)
+
 
 🌍 Passion & Future Goals 
 
