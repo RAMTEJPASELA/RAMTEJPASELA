@@ -22,10 +22,8 @@ I'm passionate about applying my Electrical and Electronics Engineering skills t
 
 ## 🛠 **Previous Projects**  
 
-### 📡 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
-
-- Integrated **IoT-enabled CPS** and **Digital Twin (DT)** technology for real-time fault detection in a 3-bus IEEE system.    
-- Enhanced power system resilience and adaptability.  
+### 📡 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System**  
+ 
 🎥 [Video Demonstration](https://youtu.be/1SOuRba_OvU)  
 🎯 **[GitHub Repository: IoT-CPS-Digital-Twin-Fault-Protection](https://github.com/RAMTEJPASELA/IoT-CPS-Digital-Twin-Fault-Protection/blob/main/README.md)**  
  
