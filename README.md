@@ -27,7 +27,8 @@ I'm passionate about applying my Electrical and Electronics Engineering skills t
 - Integrated **IoT-enabled CPS** and **Digital Twin (DT)** technology for real-time fault detection in a 3-bus IEEE system.    
 - Enhanced power system resilience and adaptability.  
 🎥 [Video Demonstration](https://youtu.be/1SOuRba_OvU)  
-🎯 **[GitHub Repository: IoT-CPS-Digital-Twin-Fault-Protection](https://github.com/YourUsername/IoT-CPS-Digital-Twin-Fault-Protection)**  
+🎯 **[GitHub Repository: IoT-CPS-Digital-Twin-Fault-Protection](https://github.com/RAMTEJPASELA/IoT-CPS-Digital-Twin-Fault-Protection/blob/main/README.md)**  
+ 
 
 
 
