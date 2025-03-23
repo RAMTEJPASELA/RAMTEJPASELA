@@ -60,4 +60,4 @@ I'm committed to contributing to sustainable energy innovations by developing ne
 ## 📬 **Let's Connect!**  
 
 - 📧 Email: [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/pasela-ramtej-3921b5232](https://linkedin.com/in/pasela-ramtej-3921b5232)  
+- 💼 **LinkedIn:** [linkedin.com/in/paselaramtej](https://www.linkedin.com/in/paselaramtej)  
