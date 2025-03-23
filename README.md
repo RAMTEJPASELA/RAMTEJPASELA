@@ -7,7 +7,10 @@ Hi there! 👋 I'm Ramtej Pasela
 🔥 About Me
 
 🏆 Project Trainee at ISRO URSC, developing high-efficiency DC-DC bidirectional converters for EVs and spacecraft.
+
 🌱 Researching Cyber-Physical Digital Twins for real-time bus fault protection in power systems.
+
 🔌 Worked on hybrid renewable energy models, IoT-based monitoring, and digital twin frameworks at IIT Madras & NIT Trichy.
+
 🎯 Open to collaborations, research, and job opportunities in Power Electronics, Embedded Systems, and EV Engineering.
 
