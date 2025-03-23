@@ -23,22 +23,18 @@ I'm passionate about applying my Electrical and Electronics Engineering skills t
 
 ## 🛠 **Previous Projects**  
 
-### 📡 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System**  
+### 🔎 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System**  
  
 🎥 [Video Demonstration](https://youtu.be/1SOuRba_OvU)  
 🎯 **[GitHub Repository: IoT-CPS-Digital-Twin-Fault-Protection](https://github.com/RAMTEJPASELA/IoT-CPS-Digital-Twin-Fault-Protection/blob/main/README.md)**  
  
+---
 
+### 🔎 **Modeling and Simulation of a Cyber-Physical Digital Twin for Bus Fault Management**  
 
-
-
-### 🖥️ **Modeling and Simulation of Cyber-Physical Digital Twin for Bus Fault Management**  
-
-- Designed and implemented a **Cyber-Physical Digital Twin framework** using **MATLAB Simulink** and **Arduino**.  
-- Achieved fault detection within **0.2 seconds** with a synchronization latency of **20 ms**.  
-- Improved system reliability and operational efficiency.  
 🎥 [Video Demonstration](https://youtu.be/wIhd6TCpo74)  
-🎯 [GitHub Repository](https://github.com/YourRepoLink)  
+🎯 **[GitHub Repository: Modeling and Simulation of Cyber-Physical Digital Twin](https://github.com/RAMTEJPASELA/Modeling-and-Simulation-of-Cyber-Physical-Digital-Twin/blob/main/README.md)**  
+
 
 
 ### ⚡ **Operation and Analysis of Three-Phase Z-Source Inverter Using Simple Boost PWM Control**  
