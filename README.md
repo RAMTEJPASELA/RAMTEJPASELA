@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm **Pasela Ramtej**  
 
-🚀 **Electrical & Electronics Engineer | ISRO Project Trainee | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins**  
+🚀 **Electrical & Electronics Engineer | ISRO Project Trainee | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems  
+**
 
 I'm an **Electrical & Electronics Engineer** passionate about solving real-world challenges in **Power Electronics, Renewable Energy, and EV Systems**. My expertise lies in **high-efficiency DC-DC converter design**, **power system simulations**, and **Cyber-Physical Digital Twin (CPDT) applications** for real-time fault management. Through my work, I aim to enhance energy efficiency, grid resilience, and sustainable power solutions.  
 
@@ -51,7 +52,7 @@ I'm an **Electrical & Electronics Engineer** passionate about solving real-world
 
 ## 📈 **Future Goals**  
 
-I am committed to driving innovation in **EV powertrains, renewable energy systems, and smart grids**. My long-term goal is to contribute to **next-gen sustainable technologies** and **enhance global energy efficiency** through **power electronics advancements**.  
+I am committed to driving innovation in **EV powertrains, renewable energy systems, and smart grids**. My goal is to develop next-generation sustainable technologies that enhance global energy efficiency. I am eager to collaborate on projects that accelerate the transition to clean energy through advancements in **power systems, power electronics, energy storage solutions, and smart grid technologies**.
 
 ---
 
