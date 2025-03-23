@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! 👋 I'm Ramtej Pasela
 
-<!--
-**RAMTEJPASELA/RAMTEJPASELA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Electrical & Electronics Engineer | Power Electronics | EV Engineer | Renewable Energy | Power Systems | IoT & Embedded Systems
 
-Here are some ideas to get you started:
+🔧 Passionate about power electronics, EV systems, and IoT-driven cyber-physical digital twins for fault protection and energy efficiency. I specialize in DC-DC converters, renewable energy integration, and smart grid systems using MATLAB Simulink, LTspice, Arduino, Raspberry Pi, PSIM, and ThingSpeak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 About Me
+
+🏆 Project Trainee at ISRO URSC, developing high-efficiency DC-DC bidirectional converters for EVs and spacecraft.
+🌱 Researching Cyber-Physical Digital Twins for real-time bus fault protection in power systems.
+🔌 Worked on hybrid renewable energy models, IoT-based monitoring, and digital twin frameworks at IIT Madras & NIT Trichy.
+🎯 Open to collaborations, research, and job opportunities in Power Electronics, Embedded Systems, and EV Engineering.
+
