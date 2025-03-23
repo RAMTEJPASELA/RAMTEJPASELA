@@ -24,11 +24,12 @@ I'm passionate about applying my Electrical and Electronics Engineering skills t
 
 ### 📡 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
 
-- Integrated **IoT-enabled CPS** and **Digital Twin (DT)** technology for real-time fault detection in a 3-bus IEEE system.  
-- Developed a fault detection mechanism using **Raspberry Pi** and **ThingSpeak**, achieving a **15s response time** for real-time fault detection.  
+- Integrated **IoT-enabled CPS** and **Digital Twin (DT)** technology for real-time fault detection in a 3-bus IEEE system.    
 - Enhanced power system resilience and adaptability.  
 🎥 [Video Demonstration](https://youtu.be/1SOuRba_OvU)  
-🎯 [GitHub Repository](https://github.com/YourRepoLink)  
+🎯 **[GitHub Repository: IoT-CPS-Digital-Twin-Fault-Protection](https://github.com/YourUsername/IoT-CPS-Digital-Twin-Fault-Protection)**  
+
+
 
 
 ### 🖥️ **Modeling and Simulation of Cyber-Physical Digital Twin for Bus Fault Management**  
