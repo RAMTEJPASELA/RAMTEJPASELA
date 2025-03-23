@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Pasela Ramtej**  
+# 👋 Hi there! I'm **Ramtej Pasela**  
 
 🚀 **Electrical & Electronics Engineer | ISRO Project Trainee | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems**
 
