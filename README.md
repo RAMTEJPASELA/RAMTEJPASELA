@@ -57,6 +57,7 @@ Circuit Topology
 ![Power Circuit in MATLAB Simulink](https://github.com/user-attachments/assets/bb710003-6a12-432d-b632-b9201a2b321b)
 
 
+
 🌍 Passion & Future Goals 
 
 I am passionate about pushing the boundaries of sustainable energy by driving innovation in next-generation technologies. My focus lies in advancing **Power Electronics**, **EV Powertrains**, **Power Systems**, and **Renewable Energy** to contribute to a cleaner, more efficient future.
