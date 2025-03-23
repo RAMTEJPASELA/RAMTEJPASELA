@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Pasela Ramtej
+Hi there! 👋 I'm **Pasela Ramtej**
 
 🚀 **Electrical & Electronics Engineer** | **Power Electronics** | **EV Engineer** | **Renewable Energy** | **Power Systems** | **IoT & Embedded Systems**  
 
