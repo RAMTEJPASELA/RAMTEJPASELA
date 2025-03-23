@@ -4,7 +4,7 @@ Hi there! 👋 I'm Pasela Ramtej
 
 I'm a passionate Electrical and Electronics Engineer with a focus on **Power Electronics**, **Electric Vehicles (EVs)**, **Renewable Energy**, **Power Systems**, and **IoT & Embedded Systems**. With hands-on experience in designing **high-efficiency DC-DC converters** and developing **IoT-driven Cyber-Physical System (CPS) Digital Twins** for real-time fault management in power systems, I am driven to contribute to innovations in sustainable energy solutions.  
 
----
+
 
 ## ⚙️ **Skills & Tools**  
 
@@ -12,7 +12,6 @@ I'm a passionate Electrical and Electronics Engineer with a focus on **Power Ele
 - **Embedded Systems:** Arduino IDE, Raspberry Pi, ThingSpeak, Putty  
 - **Programming Languages:** MATLAB, Python, C  
 
----
 
 ## 🚀 **Current Project**  
 
