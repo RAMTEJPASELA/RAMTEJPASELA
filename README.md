@@ -71,6 +71,11 @@ I am committed to driving innovation in **EV powertrains, renewable energy syste
 
 ---
 
+## 📄 **My CV**
+🔗 [View My CV](https://drive.google.com/file/d/1H0zEgqljlUTCdH8Th1iC-D6B0yhsxpZ3/view)
+
+---
+
 ## 📬 **Let's Connect!**  
 
 📧 **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
