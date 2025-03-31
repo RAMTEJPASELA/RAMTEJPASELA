@@ -74,4 +74,6 @@ I am committed to driving innovation in **EV powertrains, renewable energy syste
 ## 📬 **Let's Connect!**  
 
 📧 **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/paselaramtej](https://www.linkedin.com/in/paselaramtej)
+📱 **Phone:** +91 7780470226  
+💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/paselaramtej)  
+
