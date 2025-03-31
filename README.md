@@ -69,10 +69,6 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 
 I am committed to driving innovation in **EV powertrains, renewable energy systems, and smart grids**. My goal is to develop next-generation sustainable technologies that enhance global energy efficiency. I am eager to collaborate on projects that accelerate the transition to clean energy through advancements in **power systems, power electronics, energy storage solutions, and smart grid technologies**.  
 
----
-
-## 📄 **My CV**
-🔗 [View My CV](https://drive.google.com/file/d/1H0zEgqljlUTCdH8Th1iC-D6B0yhsxpZ3/view)
 
 ---
 
