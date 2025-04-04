@@ -57,6 +57,16 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 
 ---
 
+## 🎯 **Personal & Hobby Projects**  
+
+Apart from my academic and research work, I actively explore **power electronics, power systems, EVs and renewable energy solutions** through independent projects. These hands-on experiments help me push the boundaries of innovation while honing my practical skills.  
+
+### ⚡ **Operation and Analysis of a DC-DC Buck Converter Using MATLAB Simulink**  
+🎯 **[GitHub Repository](https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Simulink/blob/main/README.md)**  
+
+---
+
+
 ## 📄 **Preprint Publication**  
 
 📘 **Cyber-Physical-Digital Twin Application for Bus Fault Protection**  
