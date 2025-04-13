@@ -42,13 +42,11 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 
 ### 🔎 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
 🎥 **[Video Demonstration](https://youtu.be/1SOuRba_OvU)**  
-🎯 **[GitHub Repository](https://github.com/RAMTEJPASELA/IoT-CPS-Digital-Twin-Fault-Protection/blob/main/README.md)**  
 
 ---
 
 ### 🔎 **Modeling and Simulation of a Cyber-Physical Digital Twin for Bus Fault Management**  
 🎥 **[Video Demonstration](https://youtu.be/wIhd6TCpo74)**  
-🎯 **[GitHub Repository](https://github.com/RAMTEJPASELA/Modeling-and-Simulation-of-Cyber-Physical-Digital-Twin/blob/main/README.md)**  
 
 ---
 
