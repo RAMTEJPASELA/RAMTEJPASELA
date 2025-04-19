@@ -70,11 +70,11 @@ Apart from my academic and research work, I actively explore **power electronics
 ---
 
 
-## 📄 **Preprint Publication**  
+## 📄 Preprint Publication
 
-📘 **Cyber-Physical-Digital Twin Application for Bus Fault Protection**  
-- **Status:** Under Review at SEFET 2025 Conference  
-- 📥 **Preprint Link:** [Read on ResearchGate](https://www.researchgate.net/publication/390321499_Cyber-Physical-Digital_Twin_Application_for_Bus_Fault_Protection)  
+### 📘 Cyber-Physical-Digital Twin Application for Bus Fault Protection  
+- **Status:** Provisionally Accepted at SEFET 2025 Conference  
+- 📥 **Preprint:** [Read on ResearchGate](https://www.researchgate.net/publication/390321499_Cyber-Physical-Digital_Twin_Application_for_Bus_Fault_Protection)
 
 ---
 
