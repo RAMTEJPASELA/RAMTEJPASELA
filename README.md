@@ -41,6 +41,8 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 ## 🛠 **Notable Projects**  
 
 ### 🔎 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
+This project integrates IoT-enabled Cyber-Physical Systems (CPS) and Digital Twin (DT) technology for real-time fault detection in power systems, enhancing resilience and adaptability. Traditional static protection mechanisms struggle with modern smart grids, especially with renewable energy integration and bidirectional power flow. To address these challenges, this research leverages IoT and DT-based fault protection strategies. An IoT-enabled Cyber-Physical Digital Twin was developed, achieving a 15s response time for real-time bus fault detection using Raspberry Pi and ThingSpeak.
+
 🎥 **[Video Demonstration](https://youtu.be/1SOuRba_OvU)**  
 
 ---
