@@ -64,7 +64,7 @@ Arduino, to enhance power system reliability and resilience through real-time fa
 
 Apart from my academic and research work, I actively explore **power electronics, power systems, EVs and renewable energy solutions** through independent projects. These hands-on experiments help me push the boundaries of innovation while honing my practical skills.  
 
-### ⚡ **Operation and Analysis of an Open Loop DC-DC Buck Converter Using MATLAB Simulink**  
+### ⚡ **Operation and Analysis of an Open Loop DC-DC Buck Converter Using Simulink**  
 🎯 **[GitHub Repository](https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Simulink/blob/main/README.md)**  
 
 ---
