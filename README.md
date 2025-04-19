@@ -41,15 +41,14 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 ## 🛠 **Notable Projects**  
 
 ### 🔎 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
-This project integrates IoT-enabled Cyber-Physical Systems (CPS) and Digital Twin (DT) technology for real-time fault detection in power systems, enhancing resilience and adaptability. Traditional static protection mechanisms struggle with modern smart grids, especially with renewable energy integration and bidirectional power flow. To address these challenges, this research leverages IoT and DT-based fault protection strategies. An IoT-enabled Cyber-Physical Digital Twin was developed, achieving a 15s response time for real-time bus fault detection using Raspberry Pi, Simulink and ThingSpeak.
+This project integrates IoT-enabled Cyber-Physical Systems (CPS) and Digital Twin (DT) technology for real-time fault detection in smart power systems. Traditional protection methods struggle with renewables and bidirectional power flow. To solve this, I developed an IoT-based CPS-DT model that achieved real-time fault detection within 15 seconds, using Raspberry Pi, MATLAB, Simulink, PuTTY, and ThingSpeak.
 
 🎥 **[Video Demonstration](https://youtu.be/1SOuRba_OvU)**  
 
 ---
 
 ### 🔎 **Modeling and Simulation of a Cyber-Physical Digital Twin for Bus Fault Management**  
-Designed and implemented a cyber-physical-digital twin framework in Simulink, integrated with
-Arduino, to enhance power system reliability and resilience through real-time fault detection and protection. Experimental results demonstrated fault detection within 0.2 seconds and synchronization latency of 20 ms, ensuring reliable and efficient real-time operation.
+Designed and implemented a Cyber-Physical-Digital Twin framework using MATLAB, Simulink, and Arduino, aimed at improving power system reliability and resilience through real-time fault detection. Achieved fault detection within 0.2 seconds and a synchronization latency of just 20 ms, enabling efficient and responsive protection.
 
 🎥 **[Video Demonstration](https://youtu.be/wIhd6TCpo74)**  
 
