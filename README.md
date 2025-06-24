@@ -34,7 +34,7 @@ I'm driven by the goal of bridging academic research with practical engineering 
 
 ## 🛠 **Notable Projects**  
 
-### ⚡** Design and Implementation of Weinberg Converter for Regulated Spacecraft Power Supply**
+### ⚡**Design and Implementation of Weinberg Converter for Regulated Spacecraft Power Supply**
 This project focused on developing a high-efficiency Weinberg DC-DC converter tailored for regulated power delivery in satellite and spacecraft systems. The converter was designed with closed-loop voltage control using a Type-II compensator to ensure tight voltage regulation, fast transient response, and space-grade reliability. Achieved a efficiency of 93% under nominal load conditions. Tools used include MATLAB, PSIM, and hardware prototyping techniques for system validation.
 
 ---
