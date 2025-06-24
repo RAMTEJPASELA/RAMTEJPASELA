@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm **Ramtej Pasela**  
 
-🚀 **Electrical & Electronics Engineer | ISRO Project Trainee | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems**  
+🚀 **Electrical & Electronics Engineer | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems**  
 
+I'm an Electrical & Electronics Engineering graduate passionate about solving real-world challenges in Power Electronics, Renewable Energy, and Electric Vehicle (EV) Systems. My expertise lies in high-efficiency DC-DC converter design, control system development, and power system simulations, with a strong foundation in applying Cyber-Physical Systems (CPS) and Digital Twin (DT) technologies for intelligent monitoring and fault management.
 
-I'm an **Electrical & Electronics Engineer** passionate about solving real-world challenges in **Power Electronics, Renewable Energy, and EV Systems**. My expertise includes **high-efficiency DC-DC converter design, power system simulations, and Cyber-Physical Digital Twin (CPDT)** applications for real-time fault management.  
+My broader work combines hands-on circuit design and closed-loop control with research-driven innovation. Projects include the design and testing of a DC-DC Weinberg converter for regulated power delivery, development of Cyber-Physical Digital Twin frameworks, and the implementation of smart grid protection strategies aimed at enhancing energy efficiency, system resilience, and sustainable infrastructure.
 
-As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronics Engineering** student, I specialize in developing **DC-DC converters**, implementing **grid protection mechanisms**, and building **Cyber-Physical Digital Twin frameworks** to bridge the gap between research and real-world applications. My work is driven by the goal of enhancing **energy efficiency, grid resilience,** and contributing to a **sustainable energy future**.  
-
+I'm driven by the goal of bridging academic research with practical engineering to create future-ready solutions in clean mobility, smart energy systems, and resilient power electronics.
 ---
 
 ## 🛠 **Skills**  
@@ -29,16 +29,14 @@ As a **Project Trainee at ISRO URSC** and a final-year **Electrical & Electronic
 
 ---
 
-## 🚀 **Current Project: Bidirectional DC-DC Converter for Spacecraft & EV Applications**  
 
-🔋 **Developing a high-efficiency Bidirectional DC-DC Converter**  
-- **Objective:** Battery charge/discharge regulation for spacecraft & electric vehicle applications  
-- **Role:** Project Trainee at **ISRO URSC**  
-- **Outcome:** Improving energy management efficiency & advancing sustainable power solutions  
-
----
 
 ## 🛠 **Notable Projects**  
+
+### ⚡** Design and Implementation of Weinberg Converter for Regulated Spacecraft Power Supply**
+This project focused on developing a high-efficiency Weinberg DC-DC converter tailored for regulated power delivery in satellite and spacecraft systems. The converter was designed with closed-loop voltage control using a Type-II compensator to ensure tight voltage regulation, fast transient response, and space-grade reliability. Achieved a efficiency of 93% under nominal load conditions. Tools used include MATLAB, PSIM, and hardware prototyping techniques for system validation.
+
+---
 
 ### 🔎 **IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection**  
 This project integrates IoT-enabled Cyber-Physical Systems (CPS) and Digital Twin (DT) technology for real-time fault detection in smart power systems. Traditional protection methods struggle with renewables and bidirectional power flow. To solve this, I developed an IoT-based CPS-DT model that achieved real-time fault detection within 15 seconds, using Raspberry Pi, MATLAB, Simulink, PuTTY, and ThingSpeak.
