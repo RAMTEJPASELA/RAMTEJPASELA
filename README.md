@@ -7,6 +7,7 @@ I'm an Electrical & Electronics Engineering graduate passionate about solving re
 My broader work combines hands-on circuit design and closed-loop control with research-driven innovation. Projects include the design and testing of a DC-DC Weinberg converter for regulated power delivery, development of Cyber-Physical Digital Twin frameworks, and the implementation of smart grid protection strategies aimed at enhancing energy efficiency, system resilience, and sustainable infrastructure.
 
 I'm driven by the goal of bridging academic research with practical engineering to create future-ready solutions in clean mobility, smart energy systems, and resilient power electronics.
+
 ---
 
 ## 🛠 **Skills**  
