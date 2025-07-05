@@ -74,7 +74,7 @@ Simulated and evaluated a basic **open-loop buck converter** using MATLAB/Simuli
 
 ### 📘 *Cyber-Physical-Digital Twin Application for Bus Fault Protection*  
 📝 **Provisionally Accepted** — *SEFET 2025 Conference*  
-📥 [Read on ResearchGate](https://www.researchgate.net/publication/390321499_Cyber-Physical-Digital_Twin_Application_for_Bus_Fault_Protection)
+📥 [Read on ResearchGate](https://www.researchgate.net/publication/392263942_Cyber-Physical-Digital_Twin_Application_for_Bus_Fault_Protection)
 
 ---
 
