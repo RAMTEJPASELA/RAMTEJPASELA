@@ -43,7 +43,7 @@ Designed and implemented a **Weinberg DC-DC converter** using a dual-loop contro
 ### 🔎 IoT-Based Cyber-Physical Digital Twin for Real-Time Bus Fault Protection  
 Developed an **IoT-enabled CPS-DT system** using Raspberry Pi and MATLAB/Simulink for real-time fault detection in smart grids. Achieved fault detection within **15 seconds**, improving fault response and system reliability.
 
-🎥 [Watch Demo](https://youtu.be/1SOuRba_OvU)
+🎥 [Watch Demo](https://youtu.be/smw1MPDtkr8)
 
 ---
 
