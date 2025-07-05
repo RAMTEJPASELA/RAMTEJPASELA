@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Ramtej Pasela**  
 
-🚀 **Electrical & Electronics Engineer | Power Electronics & EV Systems | Renewable Energy | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems**  
+🚀 **Electrical & Electronics Engineer | Power Electronics & Battery Management Systems | Smart Grids & Power Systems | Cyber-Physical Digital Twins | IoT & Embedded Systems | JRF @ VIT Vellore**  
 
-I'm an Electrical & Electronics Engineering graduate passionate about solving real-world challenges in Power Electronics, Renewable Energy, and Electric Vehicle (EV) Systems. My expertise lies in high-efficiency DC-DC converter design, control system development, and power system simulations, with a strong foundation in applying Cyber-Physical Systems (CPS) and Digital Twin (DT) technologies for intelligent monitoring and fault management.
+I'm an Electrical & Electronics Engineering graduate and currently a **Junior Research Fellow at VIT Vellore**, working at the intersection of Power Electronics, Power Systems, and Battery Management Systems. I specialize in high-efficiency DC-DC converter design, advanced control systems, and power system simulations, with a strong focus on Cyber-Physical Systems (CPS) and Digital Twin (DT) technologies for intelligent monitoring and real-time fault management.
 
 My broader work combines hands-on circuit design and closed-loop control with research-driven innovation. Projects include the design and testing of a DC-DC Weinberg converter for regulated power delivery, development of Cyber-Physical Digital Twin frameworks, and the implementation of smart grid protection strategies aimed at enhancing energy efficiency, system resilience, and sustainable infrastructure.
 
