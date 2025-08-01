@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Ramtej Pasela**  
 
-🚀 **Electrical & Electronics Engineer | JRF @ VIT Vellore | Power Electronics | Battery Management Systems | Smart Grids | Cyber-Physical Digital Twins | IoT & Embedded Systems**
+🚀 **Electrical & Electronics Engineer | JRF @ VIT Vellore | Power Electronics | Smart Grids | Cyber-Physical Digital Twins | IoT & Embedded Systems**
 
-I'm an Electrical & Electronics Engineering graduate and currently a **Junior Research Fellow at VIT Vellore**, working at the intersection of **Power Electronics**, **Battery Management Systems**, and **Microgrids**. I specialize in:
+I'm an Electrical & Electronics Engineering graduate and currently a **Junior Research Fellow at VIT Vellore**, working at the intersection of **Power Electronics**, **Battery Pack Modeling**, and **Microgrids**. I specialize in:
 
 - High-efficiency **DC-DC converter design**  
 - Advanced **control system development**  
@@ -18,7 +18,7 @@ My work blends hands-on circuit design and embedded systems with research in sma
 ### 🔌 Technical  
 - Power Electronics Design  
 - Closed-loop Control Systems (PID, Type-II Compensators)  
-- Battery Management Systems  
+- Battery Pack Modeling  
 - Cyber-Physical Digital Twin Modeling  
 - IoT-based Smart Grid Monitoring  
 
