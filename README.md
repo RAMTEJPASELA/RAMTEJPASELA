@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Ramtej Pasela**  
 
-🚀 **Electrical & Electronics Engineer | Project Associate at IIT Indore | Power Electronics | Smart Grids | Cyber-Physical Digital Twins | IoT & Embedded Systems**
+🚀 **Electrical & Electronics Engineer | Project Associate at IIT Bombay | Power Electronics | Smart Grids | Cyber-Physical Digital Twins | IoT & Embedded Systems**
 
-I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Indore**, working at the intersection of **Power Electronics**, **Electrical Machines**, and **Hardware Development**. I specialize in:
+I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, working at the intersection of **Power Electronics**, **Electrical Machines**, and **Hardware Development**. I specialize in:
 
 - High-efficiency **DC-DC converter design**  
 - Advanced **control system development**  
