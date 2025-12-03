@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Ramtej Pasela**
-### **Power Electronics Engineer | Converter & Controller Designer | Embedded & CPS Enthusiast**
+### **Power Electronics Engineer | Converter & Controller Designer**
 
-I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, specializing in **Power Electronics**, **Advanced Control Systems**, and **Hardware Development**.
+I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, specializing in **Power Electronics**, and **Hardware Development**.
 
 My main focus is on designing **high-efficiency DC–DC converters**, implementing **closed-loop compensators**, and building **digital + hardware systems** for power and energy applications.  
 I also work with **IoT/CPS/Digital Twins** as supportive technologies for monitoring and grid fault detection.
@@ -11,24 +11,22 @@ I also work with **IoT/CPS/Digital Twins** as supportive technologies for monito
 ## 🛠 Core Technical Skills
 
 ### ⚡ Power Electronics
-- DC–DC Converters (Buck, Boost, Weinberg, Z-Source)
+- DC–DC Converters (Buck, Boost, Weinberg)
 - Control Loop Design (PI/PID, Type-II/III compensation)
 - Small-signal modeling & transfer functions
 - Voltage-mode / current-mode control
 - Gate driver design, PCB basics
 
 ### 🔧 Control & System Modeling
-- Loop shaping, Bode analysis
 - Stability design and simulation
 - Battery pack & BMS modeling
 
 ### 🌐 IoT, CPS & Digital Twin
 - Raspberry Pi, ESP8266
-- MQTT/HTTP communication
 - Real-time dashboards (ThingSpeak, MATLAB, Python)
 
 ### 💻 Software & Tools
-MATLAB/Simulink • PSIM • LTspice • PowerWorld • Arduino IDE • Git • PuTTY
+MATLAB/Simulink • PSIM • LTspice • Kicad • PowerWorld • Arduino IDE • PuTTY
 
 ---
 
