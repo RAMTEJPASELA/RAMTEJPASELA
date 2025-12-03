@@ -1,98 +1,90 @@
-# 👋 Hi there! I'm **Ramtej Pasela**  
+# 👋 Hi, I'm **Ramtej Pasela**
+### **Power Electronics Engineer | Converter & Controller Designer | Embedded & CPS Enthusiast**
 
-🚀 **Electrical & Electronics Engineer | Project Associate at IIT Bombay | Power Electronics | Smart Grids | Cyber-Physical Digital Twins | IoT & Embedded Systems**
+I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, specializing in **Power Electronics**, **Advanced Control Systems**, and **Hardware Development**.
 
-I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, working at the intersection of **Power Electronics**, **Electrical Machines**, and **Hardware Development**. I specialize in:
-
-- High-efficiency **DC-DC converter design**  
-- Advanced **control system development**  
-- Real-time **power system simulations**  
-- **Cyber-Physical Systems (CPS)** & **Digital Twins (DT)** for IoT-based smart grid monitoring  
-
-My work blends hands-on circuit design and embedded systems with research in smart energy and clean mobility. I'm passionate about transforming academic innovation into practical engineering solutions for resilient and sustainable technologies.
+My main focus is on designing **high-efficiency DC–DC converters**, implementing **closed-loop compensators**, and building **digital + hardware systems** for power and energy applications.  
+I also work with **IoT/CPS/Digital Twins** as supportive technologies for monitoring and grid fault detection.
 
 ---
 
-## 🛠 **Skills**  
+## 🛠 Core Technical Skills
 
-### 🔌 Technical  
-- Power Electronics Design  
-- Closed-loop Control Systems (PID, Type-II Compensators)  
-- Battery Pack Modeling  
-- Cyber-Physical Digital Twin Modeling  
-- IoT-based Smart Grid Monitoring  
+### ⚡ Power Electronics
+- DC–DC Converters (Buck, Boost, Weinberg, Z-Source)
+- Control Loop Design (PI/PID, Type-II/III compensation)
+- Small-signal modeling & transfer functions
+- Voltage-mode / current-mode control
+- Gate driver design, PCB basics
 
-### 💻 Software & Tools  
-- MATLAB/Simulink | PSIM | LTspice | Arduino IDE | PowerWorld Simulator  
-- ESP8266 | Raspberry Pi | PuTTY | ThingSpeak  
+### 🔧 Control & System Modeling
+- Loop shaping, Bode analysis
+- Stability design and simulation
+- Battery pack & BMS modeling
 
-### 🌟 Soft Skills  
-- Technical Writing | Leadership | Team Collaboration  
-- Problem Solving | Time Management | Presentations  
+### 🌐 IoT, CPS & Digital Twin
+- Raspberry Pi, ESP8266
+- MQTT/HTTP communication
+- Real-time dashboards (ThingSpeak, MATLAB, Python)
 
----
-
-## 🚧 **Notable Projects**  
-
-### ⚡ Weinberg DC-DC Converter for Satellite Power Systems  
-Designed and implemented a **Weinberg DC-DC converter** using a dual-loop control strategy (inner current loop and outer voltage loop) with a Type-II compensator during my tenure at **ISRO URSC**. The system delivered efficient, stable voltage regulation under varying spacecraft load conditions.
+### 💻 Software & Tools
+MATLAB/Simulink • PSIM • LTspice • PowerWorld • Arduino IDE • Git • PuTTY
 
 ---
 
-### 🔎 IoT-Based Cyber-Physical Digital Twin for Real-Time Bus Fault Protection  
-Developed an **IoT-enabled CPS-DT system** using Raspberry Pi and MATLAB/Simulink for real-time fault detection in smart grids. Achieved fault detection within **15 seconds**, improving fault response and system reliability.
+## 🚧 Featured Projects
 
-🎥 [Watch Demo](https://youtu.be/smw1MPDtkr8)
-
----
-
-### 🛡️ CPS-DT Framework for Grid Fault Resilience  
-Modeled a responsive **CPS-DT framework** in MATLAB/Simulink integrated with Arduino. Achieved **20 ms synchronization latency**, enabling near-instantaneous fault detection.
-
-🎥 [Watch Demo](https://youtu.be/wIhd6TCpo74)
+### ⚡ Weinberg DC–DC Converter for Satellite Power Systems (ISRO URSC)
+Designed a high-stability Weinberg converter using **dual-loop control**  
+(inner current loop + outer voltage loop with Type-II compensator).  
+Delivered stable regulation under varying spacecraft load conditions.
 
 ---
 
-### ⚙️ Three-Phase Z-Source Inverter with Simple Boost PWM  
-Simulated and analyzed a **three-phase Z-source inverter** (ZSI) using Simple Boost PWM strategy for enhanced voltage gain.  
-🔗 [GitHub Repository](https://github.com/RAMTEJPASELA/Three-Phase-ZSI-Simple-Boost-PWM)
+### 🔌 Three-Phase Z-Source Inverter (Simple Boost PWM)
+Simulated and analyzed a **three-phase ZSI** to achieve boosted DC-link voltage.  
+🔗 **GitHub Repo:** https://github.com/RAMTEJPASELA/Three-Phase-ZSI-Simple-Boost-PWM
 
 ---
 
-## 🧪 **Personal & Hobby Projects**  
-
-I enjoy prototyping and experimenting with **EV systems**, **power converters**, and **renewable integration** through practical simulations and builds.
-
-### 🔋 Open-Loop Buck Converter Simulation  
-Simulated and evaluated a basic **open-loop buck converter** using MATLAB/Simulink for foundational power electronics analysis.  
-🔗 [GitHub Repository](https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Simulink)
+### 🛡 IoT-Based CPS Digital Twin for Bus Fault Protection
+Developed an IoT-enabled CPS-DT using Raspberry Pi + MATLAB/Simulink for real-time fault detection.  
+⏱ Detection time: **<15 seconds**  
+🎥 Demo: https://youtu.be/smw1MPDtkr8
 
 ---
 
-## 📄 **Research & Publications**  
+### ⚙️ CPS-DT Framework for Ultra-Fast Grid Fault Localization
+Built a responsive DT + Arduino system achieving **20 ms synchronization latency**.  
+🎥 Demo: https://youtu.be/wIhd6TCpo74
 
+---
+
+### 🔋 Open-Loop Buck Converter Simulation
+Implemented and analyzed a basic open-loop buck converter in MATLAB/Simulink.  
+🔗 **GitHub Repo:**  
+https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Simulink
+
+---
+
+## 📚 Research & Publications
 ### 📘 *Cyber-Physical-Digital Twin Application for Bus Fault Protection*  
-📝 **Provisionally Accepted** — *SEFET 2025 Conference*  
-📥 [Read on ResearchGate](https://www.researchgate.net/publication/392263942_Cyber-Physical-Digital_Twin_Application_for_Bus_Fault_Protection)
+**Provisionally Accepted – SEFET 2025 Conference**
 
 ---
 
-## 🎯 **Future Goals**  
-
-I'm committed to advancing R&D in:
-
-- Electric Vehicle Powertrains & BMS  
-- Renewable Energy Integration & Smart Grids  
-- Resilient Power Electronics & Cyber-Physical Energy Systems  
-
-I’m actively seeking **collaborative opportunities**, whether in academia or industry, to accelerate the transition toward sustainable energy technologies.
+## 🎯 Career Interests
+- Power Electronics R&D  
+- DC–DC Converter & Control Design  
+- EV Powertrain Systems  
+- Renewable Integration & Smart Grids  
+- CPS/Digital Twin–based monitoring  
+- Hardware Prototyping & Real-Time Systems  
 
 ---
 
-## 📬 **Let's Connect**  
-
-📧 **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
-📱 **Phone:** +91 7780470226  
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/paselaramtej)
-
----
+## 📬 Contact
+📧 Email: **ramtejpasela@gmail.com**  
+📱 Phone: **+91 7780470226**  
+🔗 LinkedIn: https://www.linkedin.com/in/paselaramtej  
+🔗 GitHub: https://github.com/RAMTEJPASELA
