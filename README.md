@@ -53,7 +53,7 @@ Developed an IoT-enabled CPS-DT using Raspberry Pi + MATLAB/Simulink for real-ti
 
 ---
 
-### ⚙️ CPS-DT Framework for Ultra-Fast Grid Fault Localization
+### ⚙️ CPS-DT Framework for Grid Fault Localization
 Built a responsive DT + Arduino system achieving **20 ms synchronization latency**.  
 🎥 Demo: https://youtu.be/wIhd6TCpo74
 
@@ -68,7 +68,7 @@ https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Si
 
 ## 📚 Research & Publications
 ### 📘 *Cyber-Physical-Digital Twin Application for Bus Fault Protection*  
-**Provisionally Accepted – SEFET 2025 Conference**
+**Accepted – SEFET 2025 Conference**
 
 ---
 
