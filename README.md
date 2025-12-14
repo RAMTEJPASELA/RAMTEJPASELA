@@ -68,7 +68,6 @@ https://github.com/RAMTEJPASELA/Buck-Converter-Open-Loop-Simulation-in-MATLAB-Si
 
 ## 📚 Research & Publications
 ### 📘 *Cyber-Physical-Digital Twin Application for Bus Fault Protection*  
-**Accepted – SEFET 2025 Conference**
 🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/11255344
 
 ---
