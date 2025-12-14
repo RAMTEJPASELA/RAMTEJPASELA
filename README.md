@@ -3,7 +3,7 @@
 
 I'm an Electrical & Electronics Engineering graduate and currently a **Project Associate at IIT Bombay**, specializing in **Power Electronics**, and **Hardware Development**.
 
-My main focus is on designing **high-efficiency DC–DC converters**, implementing **closed-loop compensators**, and building **digital + hardware systems** for power and energy applications.  
+My main focus is on designing **power converters**, implementing **closed-loop compensators**, and building **digital + hardware systems** for power and energy applications.  
 
 I also work with **IoT/CPS/Digital Twins** as supportive technologies for monitoring and grid fault detection.
 
